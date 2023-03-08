@@ -1,33 +1,24 @@
-This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
+# Bing-Chat-Pro (Chromium Extension)
+![GitHub stars](https://img.shields.io/github/stars/blueagler/Bing-Chat-Pro?style=flat)
 
-## Getting Started
+## Preview
 
-First, run the development server:
+## Features
+- Unlimited characters in chatbox (2000 -> ∞)
 
-```bash
-pnpm dev
-# or
-npm run dev
-```
+## Installation tutorial
+1. Go to [release page](https://github.com/blueagler/Bing-Chat-Pro/releases) and download the latest version (e.g. Bing-Chat-Pro v1.0.0.zip)
+2. Decompress this zip file
+3. Go to plug-in settings page
+4. Enable developer mode
+5. Click to load the decompressed plug-in
+6. Select the decompressed folder
 
-Open your browser and load the appropriate development build. For example, if you are developing for the chrome browser, using manifest v3, use: `build/chrome-mv3-dev`.
+## Support me:
+<a href="https://www.buymeacoffee.com/blueagler"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" align="right"/></a>
+<img src="https://github.com/blueagler/blueagler/raw/main/assets/wechat_reward_code.JPG" height="400"/>
+<img src="https://github.com/blueagler/blueagler/raw/main/assets/alipay_reward_code.JPG" height="400"/>
 
-You can start editing the popup by modifying `popup.tsx`. It should auto-update as you make changes. To add an options page, simply add a `options.tsx` file to the root of the project, with a react component default exported. Likewise to add a content page, add a `content.ts` file to the root of the project, importing some module and do some logic, then reload the extension on your browser.
-
-For further guidance, [visit our Documentation](https://docs.plasmo.com/)
-
-## Making production build
-
-Run the following:
-
-```bash
-pnpm build
-# or
-npm run build
-```
-
-This should create a production bundle for your extension, ready to be zipped and published to the stores.
-
-## Submit to the webstores
-
-The easiest way to deploy your Plasmo extension is to use the built-in [bpp](https://bpp.browser.market) GitHub action. Prior to using this action however, make sure to build your extension and upload the first version to the store to establish the basic credentials. Then, simply follow [this setup instruction](https://docs.plasmo.com/framework/workflows/submit) and you should be on your way for automated submission!
+## Telegram Channel & Group
+<a href="https://t.me/DeepL_Crack_Announcement"><img src="https://user-images.githubusercontent.com/61572188/221822226-47c6469b-06b6-4151-9ad6-36a3da10b2b7.jpg" width="300px"/></a>
+<a href="https://t.me/DeepL_Crack"><img src="https://user-images.githubusercontent.com/61572188/221823275-8ff3b6a7-cf00-438e-800a-050bd96bdadc.jpg" width="300px"/></a>
