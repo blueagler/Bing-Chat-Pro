@@ -2,7 +2,7 @@
   "name": "bing-chat-pro",
   "displayName": "Bing Chat Pro",
   "version": "0.0.1",
-  "description": "A basic Plasmo extension.",
+  "description": "Bing Chat Helper. Features: Unlimited characters in chatbox",
   "author": "Blueagle",
   "scripts": {
     "dev": "plasmo dev",
