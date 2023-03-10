@@ -2,11 +2,14 @@
 ![GitHub stars](https://img.shields.io/github/stars/blueagler/Bing-Chat-Pro?style=flat)
 
 ## Preview
-
-https://user-images.githubusercontent.com/61572188/223714588-81df0639-1783-4fe9-8ffc-99717bc401f2.mov
+<img width="800" src="https://user-images.githubusercontent.com/61572188/224296099-660701ba-2cf0-4ec4-b20d-7fa49eb7564e.png">
+<img width="800" src="https://user-images.githubusercontent.com/61572188/224296120-2ecb5589-fce1-481f-b706-da69ebcfceb8.png">
 
 ## Features
 - Unlimited characters in chatbox (2000 -> ∞)
+- Use compose mode in search page, without edge dev
+
+
 
 ## Installation tutorial
 1. Go to [release page](https://github.com/blueagler/Bing-Chat-Pro/releases) and download the latest version (e.g. Bing-Chat-Pro v1.0.0.zip)
